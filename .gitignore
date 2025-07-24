@@ -1,0 +1,31 @@
+# Code::Blocks files
+*.depend
+*.layout
+*.save
+
+# Build directories
+bin/
+obj/
+
+# Executable files
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# macOS specific
+.DS_Store
