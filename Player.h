@@ -1,11 +1,4 @@
-/*
- * Player.h - Header file cho Player class trong game Scrabble
- * 
- * Tác giả: Đàm Hồng Quân
- * Mã sinh viên: 24022712
- * Mô tả: Định nghĩa class Player quản lý thông tin người chơi,
- *        bộ quân cờ và các thao tác liên quan trong game Scrabble
- */
+
 
 #ifndef PLAYER_H
 #define PLAYER_H
