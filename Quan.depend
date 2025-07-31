@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1753720222 source:c:\users\computer\desktop\demo\demo\submission\src\game.cpp
+	"Game.h"
+	"Player.h"
+	<iostream>
+	<algorithm>
+	<random>
+	<iomanip>
+
+1753720222 c:\users\computer\desktop\demo\demo\submission\src\game.h
+	<vector>
+	<string>
+	<map>
+
+1753722012 c:\users\computer\desktop\demo\demo\submission\src\player.h
+	<string>
+	<vector>
+
+1753932191 source:c:\users\computer\desktop\demo\demo\submission\src\player.cpp
+	"Player.h"
+	<iostream>
+	<algorithm>
+	<sstream>
+
+1753720222 source:c:\users\computer\desktop\demo\demo\submission\src\gamerules.cpp
+	"GameRules.h"
+	<algorithm>
+	<map>
+
+1753933739 c:\users\computer\desktop\demo\demo\submission\src\gamerules.h
+	<string>
+	<vector>
+
+1753933857 source:c:\users\computer\desktop\demo\demo\submission\src\aiplayer.cpp
+	"AIPlayer.h"
+	<algorithm>
+	<random>
+	<iostream>
+
+1753933658 c:\users\computer\desktop\demo\demo\submission\src\aiplayer.h
+	"Player.h"
+	"Game.h"
+	<vector>
+	<string>
+
